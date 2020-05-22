@@ -1,0 +1,15 @@
+C:\Users\cats\Desktop\WebAPITest2\WebAPITest2\bin\Debug\netcoreapp3.1\WebAPITest2.exe
+C:\Users\cats\Desktop\WebAPITest2\WebAPITest2\obj\Debug\netcoreapp3.1\WebAPITest2.csprojAssemblyReference.cache
+C:\Users\cats\Desktop\WebAPITest2\WebAPITest2\obj\Debug\netcoreapp3.1\WebAPITest2.AssemblyInfoInputs.cache
+C:\Users\cats\Desktop\WebAPITest2\WebAPITest2\obj\Debug\netcoreapp3.1\WebAPITest2.AssemblyInfo.cs
+C:\Users\cats\Desktop\WebAPITest2\WebAPITest2\bin\Debug\netcoreapp3.1\WebAPITest2.deps.json
+C:\Users\cats\Desktop\WebAPITest2\WebAPITest2\bin\Debug\netcoreapp3.1\WebAPITest2.runtimeconfig.json
+C:\Users\cats\Desktop\WebAPITest2\WebAPITest2\bin\Debug\netcoreapp3.1\WebAPITest2.runtimeconfig.dev.json
+C:\Users\cats\Desktop\WebAPITest2\WebAPITest2\bin\Debug\netcoreapp3.1\WebAPITest2.dll
+C:\Users\cats\Desktop\WebAPITest2\WebAPITest2\bin\Debug\netcoreapp3.1\WebAPITest2.pdb
+C:\Users\cats\Desktop\WebAPITest2\WebAPITest2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\cats\Desktop\WebAPITest2\WebAPITest2\obj\Debug\netcoreapp3.1\WebAPITest2.csproj.CoreCompileInputs.cache
+C:\Users\cats\Desktop\WebAPITest2\WebAPITest2\obj\Debug\netcoreapp3.1\WebAPITest2.csproj.CopyComplete
+C:\Users\cats\Desktop\WebAPITest2\WebAPITest2\obj\Debug\netcoreapp3.1\WebAPITest2.dll
+C:\Users\cats\Desktop\WebAPITest2\WebAPITest2\obj\Debug\netcoreapp3.1\WebAPITest2.pdb
+C:\Users\cats\Desktop\WebAPITest2\WebAPITest2\obj\Debug\netcoreapp3.1\WebAPITest2.genruntimeconfig.cache

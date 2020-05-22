@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YDpWtLeZOKpyw5jeJScP07vsKpAAHfR9PT/UkKvdx6YUjGBvTJ8Xy5vA/GNi/ZBCB625akhMazPzNy4AsO9L8w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cats\\Desktop\\WebAPITest2 _hogehoge\\WebAPITest2\\WebAPITest2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cats\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
